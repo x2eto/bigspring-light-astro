@@ -27,7 +27,7 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "公司",
       "menu": [
         {
           "text": "Pricing",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "产品",
       "menu": [
         {
           "text": "Features",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Support",
+      "name": "帮助",
       "menu": [
         {
           "text": "FAQ",
